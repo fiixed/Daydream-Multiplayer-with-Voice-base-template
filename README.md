@@ -3,7 +3,9 @@ A Daydream multiplayer base scene with Voice using Photon
 
 Uses UnityEvent for teleportation.  Player has a VR headset for head
 
-##Installation Clone the GitHub repository
+## Installation 
+
+Clone the GitHub repository
 
 $ git clone https://github.com/fiixed/Daydream-Multiplayer-with-Voice-base-template.git
 
